@@ -1,0 +1,251 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Banner Section",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"635x440"
+                }
+            },
+            "heading": "text",
+            "subheading": "text",
+            "highlight_subheading": "text",
+            "left_button_name": "text",
+            "left_button_link": "text",
+            "right_button_name": "text",
+            "right_button_link": "text"
+        }
+    },
+    "trending_prompts": {
+        "builder": true,
+        "name": "Trending Prompts",
+        "content": {
+            "heading": "text",
+            "background_text": "text"
+        }
+    },
+    "featured_prompts": {
+        "builder": true,
+        "name": "Featured Prompts",
+        "content": {
+            "heading": "text",
+            "background_text": "text"
+        }
+    },
+    "top_sellers": {
+        "builder": true,
+        "name": "Top Sellers",
+        "content": {
+            "heading": "text",
+            "background_text": "text"
+        }
+    },
+    "cta": {
+        "builder": true,
+        "name": "CTA Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1320x390"
+                },
+                "right_image": {
+                    "size": "440x310"
+                }
+            },
+            "heading": "text",
+            "subheading": "text",
+            "button_name": "text",
+            "button_link": "text"
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "background_text": "text"
+        },
+        "element": {
+            "images":{
+                "image":{
+                    "size":"1000x500",
+                    "thumb":"500x250"
+                }
+            },
+            "title": "text",
+            "slug":"title",
+            "description": "textarea-nic",
+            "modal": false,
+            "seo":true
+        }
+    },
+    "collection": {
+        "builder": true,
+        "name": "CTA Two Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "button_name": "text",
+            "button_link": "text",
+            "images":{
+                "left_image":{
+                    "size":"225x220"
+                },
+                "right_image":{
+                    "size":"150x290"
+                }
+            }
+        }
+    },
+    "policy_pages": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Policy Pages",
+        "hide_builder":true,
+        "element": {
+            "title": "text",
+            "slug":"title",
+            "details": "textarea-nic",
+            "modal": false,
+            "seo":true
+        }
+    },
+    "login": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Login Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1150x955"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "register": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Sign Up Section",
+        "content": {
+            "images": {
+                "image": {
+                   "size": "1150x955"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "subscribe": {
+        "builder": true,
+        "name": "Subscribe Section",
+        "content": {
+            "section_title":"test",
+            "heading": "text"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "contact_number": "text",
+            "contact_number_heading": "text",
+            "contact_number_subheading": "text",
+            "email_address": "text",
+            "email_address_heading": "text",
+            "email_address_subheading": "text",
+            "note": "text",
+            "images":{
+                "left_background_image":{
+                    "size":"150x205"
+                },
+                "right_background_image":{
+                    "size":"150x205"
+                }
+            }
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer Content",
+        "content": {
+            "footer_text": "textarea",
+            "images":{
+                "left_background_image":{
+                    "size":"210x180"
+                },
+                "right_background_image":{
+                    "size":"172x125"
+                }
+            }
+        }
+    },
+    "kyc": {
+        "builder": true,
+        "no_selection": true,
+        "name": "KYC Content",
+        "content": {
+            "required": "text",
+            "pending": "text",
+            "reject": "text"
+        }
+    },
+    "prompt_step_content": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Add Prompt Step Two",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"415x415"
+                }
+            },
+            "heading": "text",
+            "details": "textarea-nic"
+        }
+    },
+    "prompt_create_file": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Add Prompt Step Three",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"415x415"
+                }
+            }
+        }
+    },
+    "banned": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banned Page",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "360x370"
+                }
+            },
+            "heading": "text"
+        }
+    }
+}
